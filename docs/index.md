@@ -3,9 +3,9 @@ layout: default
 title: home
 ---
 
-#INSTALLING KVM HYPERVISOR ON MACOS
+INSTALLING KVM HYPERVISOR ON MACOS
 
-##Homebrew Part
+Homebrew Part
 Make sure that you have homebrew installed so that you can use the ‘brew’ package to install the necessary tools
 type ‘brew.sh’ in a web browser on your MAC computer and follow the instructions therein
 Homebrew is a tool that helps you install many linux based packages on MAC
@@ -21,7 +21,7 @@ Download the PORT software for your specific MAC OS version (pkg)
 Install it on your MAC (might require a reboot or close and reopen terminal to make the PORT command available)
 Now move to the next part
 
-##Port Software Part
+Port Software Part
 On the new terminal install Virt-Manager
 sudo port install virt-manager
 For the “Continue” question, answer ‘Y’
