@@ -3,7 +3,7 @@ layout: default
 title: home
 ---
 
-INSTALLING KVM HYPERVISOR ON MACOS
+INSTALLING KVM HYPERVISOR ON MacOS
 
 Homebrew Part
 
